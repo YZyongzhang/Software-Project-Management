@@ -63,6 +63,7 @@ main ◄── dev ◄── feature-memberA
 <类型>: <简短描述>
 
 类型包括：
+  无      无具体功能或文档修改
   feat    新功能 / 新文档
   fix     修复 / 更正
   docs    纯文档修改
