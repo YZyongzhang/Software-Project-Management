@@ -129,8 +129,8 @@ main ◄── dev ◄── feature-memberA
 |---|---|---|
 | `v0.1-init` | 项目初始化完成（README + 目录结构） | `dev` |
 | `v0.2-wbs` | WBS 三级分解完成 | `dev` |
-| `v0.3-schedule` | 进度计划形成 | `dev` |
-| `v0.4-config` | 配置管理文档完成 | `dev` |
+| `v0.3-schedule` | 在同一版本进行开发进度计划 | `dev` |
+| `v0.3-config` | 在同一版本进行开发配置管理 | `dev` |
 | `v0.5-summary` | 总结报告完成 | `dev` |
 | `v1.0-final` | 全部交付物合并至 main | `main` |
 
